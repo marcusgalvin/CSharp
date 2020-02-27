@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 
+//day 6 hacker rank - fundamentals
 namespace LetsReview
 {
     class MainClass
