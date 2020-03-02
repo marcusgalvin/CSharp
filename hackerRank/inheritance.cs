@@ -49,7 +49,7 @@ class Student : Person{
 
         averageScore = totalScores / testScores.Length;
 
-        if (averageScore >= 90 && averageScore < 100)
+        if (averageScore >= 90 && averageScore <= 100)
         return 'O';
         else if (averageScore >= 80 && averageScore < 90)
         return 'E';
