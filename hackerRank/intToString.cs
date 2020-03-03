@@ -7,6 +7,7 @@ class Solution {
     static void Main(String[] args) {
         string S = Console.ReadLine();
 
+//try catch block - cannot use if statements in this algorithm
         try 
         {
             
