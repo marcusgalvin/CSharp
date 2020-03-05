@@ -3,6 +3,8 @@ public interface AdvancedArithmetic{
     int divisorSum(int n);
 }
 
+//find the sum of all of a certain number's divisors
+
 public class Calculator : AdvancedArithmetic
 {
     public int divisorSum(int n)
